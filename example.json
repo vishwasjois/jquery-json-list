@@ -1,5 +1,5 @@
 {
-  "locationGroups": [
+  "groups": [
     {
       "id": 1,
       "name": "AU - NSW",
@@ -29,7 +29,7 @@
       "children": [2]
     }
   ],
-  "locations": [
+  "items": [
     {
       "id": 1,
       "name": "Neutral Bay"
